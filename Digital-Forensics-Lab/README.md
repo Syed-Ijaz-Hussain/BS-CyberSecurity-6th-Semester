@@ -1,5 +1,5 @@
 Digital Forensics Lab – 6th Semester
-📌 Introduction
+Introduction
 
 This section contains practical lab exercises related to Digital Forensics performed using Kali Linux.
 
