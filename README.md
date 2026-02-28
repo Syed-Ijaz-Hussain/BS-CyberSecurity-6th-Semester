@@ -1,16 +1,31 @@
-# BS-CyberSecurity-6th-Semester
-6th Semester Cyber Security Labs – Digital Forensics, and Malware Analysis
 BS Cyber Security – 6th Semester Labs
 
-Student: Syed Ijaz Hussain
+Student Name: Syed Ijaz Hussain
 Program: BS Cyber Security
 University: Riphah International University
 
-📚 Semester Subjects
+Semester Overview
 
-🛡 Digital Forensics Lab
+This repository contains practical laboratory work and technical documentation for my 6th Semester in BS Cyber Security.
 
-🌐 Malware Analysis
+The purpose of this repository is to:
 
+Document hands-on cybersecurity labs
 
+Demonstrate practical skills
 
+Build a structured academic portfolio
+
+Show progression in technical learning
+
+🛡 Subjects Covered
+
+Digital Forensics Lab
+
+Malware analysis
+
+Web Application Security
+
+Goal
+
+To develop practical expertise in cybersecurity tools, forensic investigation techniques, and Malware analysis while maintaining professional documentation standards.
